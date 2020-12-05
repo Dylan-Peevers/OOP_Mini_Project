@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>MiniProject</OriginalElement>
+  <nodes>
+    <node x="0.0" y="631.0">MiniProject.Timber</node>
+    <node x="1077.0" y="664.0">MiniProject.Sand</node>
+    <node x="0.0" y="216.0">MiniProject.NutsAndBolts</node>
+    <node x="340.0" y="653.0">MiniProject.Cement</node>
+    <node x="0.0" y="1069.0">MiniProject.Wrench</node>
+    <node x="288.0" y="1069.0">MiniProject.Hammer</node>
+    <node x="465.5" y="842.0">MiniProject.Tools</node>
+    <node x="582.0" y="1069.0">MiniProject.Drill</node>
+    <node x="1301.0" y="631.0">MiniProject.Drywall</node>
+    <node x="827.0" y="653.0">MiniProject.Silicone</node>
+    <node x="401.0" y="238.0">MiniProject.Screws</node>
+    <node x="850.0" y="1058.0">MiniProject.Screwdriver</node>
+    <node x="1233.0" y="842.0">MiniProject.StockSystem</node>
+    <node x="731.5" y="427.0">MiniProject.Materials</node>
+    <node x="250.75" y="0.0">MiniProject.Hardware</node>
+    <node x="1425.0" y="842.0">MiniProject.Customer</node>
+    <node x="597.0" y="664.0">MiniProject.Gravel</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="MiniProject.Silicone" target="MiniProject.Materials">
+      <point x="0.0" y="-61.0" />
+      <point x="942.0" y="611.0" />
+      <point x="837.0833333333334" y="611.0" />
+      <point x="15.083333333333371" y="72.0" />
+    </edge>
+    <edge source="MiniProject.Timber" target="MiniProject.Materials">
+      <point x="0.0" y="-83.0" />
+      <point x="160.0" y="591.0" />
+      <point x="746.5833333333334" y="591.0" />
+      <point x="-75.41666666666663" y="72.0" />
+    </edge>
+    <edge source="MiniProject.Sand" target="MiniProject.Materials">
+      <point x="0.0" y="-50.0" />
+      <point x="1179.0" y="601.0" />
+      <point x="867.25" y="601.0" />
+      <point x="45.25" y="72.0" />
+    </edge>
+    <edge source="MiniProject.Screws" target="MiniProject.Hardware">
+      <point x="0.0" y="-61.0" />
+      <point x="539.0" y="191.0" />
+      <point x="421.75" y="191.0" />
+      <point x="57.0" y="83.0" />
+    </edge>
+    <edge source="MiniProject.Gravel" target="MiniProject.Materials">
+      <point x="0.0" y="-50.0" />
+      <point x="702.0" y="611.0" />
+      <point x="806.9166666666666" y="611.0" />
+      <point x="-15.083333333333371" y="72.0" />
+    </edge>
+    <edge source="MiniProject.Cement" target="MiniProject.Materials">
+      <point x="0.0" y="-61.0" />
+      <point x="458.5" y="601.0" />
+      <point x="776.75" y="601.0" />
+      <point x="-45.25" y="72.0" />
+    </edge>
+    <edge source="MiniProject.Drill" target="MiniProject.Tools">
+      <point x="0.0" y="-61.0" />
+      <point x="706.0" y="1038.0" />
+      <point x="590.5" y="1038.0" />
+      <point x="25.0" y="83.0" />
+    </edge>
+    <edge source="MiniProject.Wrench" target="MiniProject.Tools">
+      <point x="0.0" y="-61.0" />
+      <point x="134.0" y="1028.0" />
+      <point x="490.5" y="1028.0" />
+      <point x="-75.0" y="83.0" />
+    </edge>
+    <edge source="MiniProject.NutsAndBolts" target="MiniProject.Hardware">
+      <point x="0.0" y="-83.0" />
+      <point x="190.5" y="191.0" />
+      <point x="307.75" y="191.0" />
+      <point x="-57.0" y="83.0" />
+    </edge>
+    <edge source="MiniProject.Screwdriver" target="MiniProject.Tools">
+      <point x="0.0" y="-72.0" />
+      <point x="1019.0" y="1028.0" />
+      <point x="640.5" y="1028.0" />
+      <point x="75.0" y="83.0" />
+    </edge>
+    <edge source="MiniProject.Drywall" target="MiniProject.Materials">
+      <point x="0.0" y="-83.0" />
+      <point x="1462.0" y="591.0" />
+      <point x="897.4166666666667" y="591.0" />
+      <point x="75.41666666666674" y="72.0" />
+    </edge>
+    <edge source="MiniProject.Hammer" target="MiniProject.Tools">
+      <point x="0.0" y="-61.0" />
+      <point x="425.0" y="1038.0" />
+      <point x="540.5" y="1038.0" />
+      <point x="-25.0" y="83.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="342.0" y="215.0" />
+  <SelectedNodes>
+    <node>MiniProject.Gravel</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+    <Category>Fields</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
